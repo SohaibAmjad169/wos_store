@@ -2,3 +2,9 @@
 **/node_modules/
 # Ignore Next.js build files and cache
 .next/
+**/.next/
+/wos-store-storefront/.next/
+# Ignore build artifacts
+out/
+# Ignore log files
+*.log
